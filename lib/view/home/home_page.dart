@@ -29,7 +29,7 @@ class HomePage extends StatelessWidget {
                     LinearGradient(end: Alignment.bottomCenter, colors: [
                   Theme.of(context).primaryColor,
                   Theme.of(context).primaryColor.withOpacity(0.5),
-                  Theme.of(context).focusColor,
+                  Theme.of(context).canvasColor,
                 ]),
                 image: DecorationImage(
                     image: (homeProviderTrue.apiModalScan!.current.isDay==1)?const AssetImage('assets/image/sun.png'):(homeProviderTrue.apiModalScan!.forecast.forecastday[0].day.dailyWillItRain==0)?AssetImage('assets/image/night.png'):AssetImage("assets/image/rain_cloud.gif"),fit: BoxFit.fitWidth,
