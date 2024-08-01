@@ -22,8 +22,8 @@ class HomeProvider extends ChangeNotifier {
   HomeProvider() {
     shareMobileGet();
     apiDataGet();
-    notifyListeners();
   }
+    // notifyListeners();
 
   bool checkLoop(String textValue) {
     bool checkValueBool = false;
@@ -74,6 +74,11 @@ class HomeProvider extends ChangeNotifier {
     addList.add('$name-$text-$temp-$heat-$down');
     // addList.add(ListModal(index1: selectIndex, index2: valueIndex));
     shareMobileSet();
+    notifyListeners();
+  }
+
+  void textFieldMethod()
+  {
     notifyListeners();
   }
 }
