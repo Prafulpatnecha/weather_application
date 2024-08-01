@@ -42,5 +42,7 @@ samples, guidance on mobile development, and a full API reference.
 
 ### Description
 A weather application is designed to provide users with real-time weather information and forecasts. It offers a user-friendly interface to access current weather conditions, hourly forecasts, weekly outlooks, and various weather-related data. The app can serve both casual users who need daily weather updates and professionals requiring precise weather data for planning and decision-making.
+
+###
 https://github.com/user-attachments/assets/b9dac1f7-661d-4d83-b98a-43350f1b2db5
 
