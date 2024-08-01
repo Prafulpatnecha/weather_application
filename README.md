@@ -36,7 +36,7 @@ samples, guidance on mobile development, and a full API reference.
 
 <h1></h1>
 <div align="center">
-<a href="https://github.com/Prafulpatnecha/adv_flutter_ch1/tree/master/lib/introscreen">-> Code File Link <-</a>
+<a href="https://github.com/Prafulpatnecha/weather_application/tree/master/lib">-> Code File Link <-</a>
 </div>
 <h1></h1>
 
@@ -44,8 +44,5 @@ samples, guidance on mobile development, and a full API reference.
 A weather application is designed to provide users with real-time weather information and forecasts. It offers a user-friendly interface to access current weather conditions, hourly forecasts, weekly outlooks, and various weather-related data. The app can serve both casual users who need daily weather updates and professionals requiring precise weather data for planning and decision-making.
 
 ###
-
-
-
-https://github.com/user-attachments/assets/8d6442c2-5588-46a9-82a9-eed361826df9
+https://github.com/user-attachments/assets/5ab99991-3bea-4513-8be9-c75104176451
 
